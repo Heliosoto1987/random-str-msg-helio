@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-helio",
+  "version": "1.0.0",
+  "description": "Random string message for test deploy on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heliosoto1987/random-str-msg-helio.git"
+  },
+  "keywords": [],
+  "author": "Helio Javier Soto Arevalo <heliosoto17@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heliosoto1987/random-str-msg-helio/issues"
+  },
+  "homepage": "https://github.com/Heliosoto1987/random-str-msg-helio#readme",
+  "bin": {
+    "random-str-msg-helio": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
