@@ -2,7 +2,7 @@
 
 ## Description:
 
-With this package you can see several conjugations in "Spanish" of the word verga in Maracaibo - Venezuela
+With this package you can see different uses of the word "Verga" and in various situations used in Maracaibo -Venezuela
 
 ## Install
 
